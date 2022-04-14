@@ -1,12 +1,12 @@
 ### Olá! Eu sou Vitor Hugo 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_vitorh/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](vitoor.hmateus@gmail.com)
+<a href = "mailto=vitoor.hmateus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-h-206786220/)
 
 
-![Vitor Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=VitoorHugo1&show_icons=true&theme=dracula)
 
+![Vitor Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=VitoorHugo1&show_icons=true&theme=dracula)
 
 ## Tecnologias
 
