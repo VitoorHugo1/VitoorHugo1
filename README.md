@@ -15,3 +15,5 @@
     <img align="center" alt="Vitor_.NET"src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" style="max-width">
 
 </div>
+
+![Snake animation](https://github.com/VitoorHugo1/VitoorHugo1/blob/output/github-contribution-grid-snake.svg)
