@@ -16,4 +16,3 @@
 
 </div>
 
-![Snake animation](https://github.com/VitoorHugo1/VitoorHugo1/blob/output/github-contribution-grid-snake.svg)
