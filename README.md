@@ -9,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,nodejs,angular,ts,dart,mysql)](https://skillicons.dev)
 
-Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
+Por aqui, você encontrará alguns projetos, usando as seguintes tecnologias:
 <p>-C#</p> 
 <p>-ASP.NET Core</p>
 <p>-.NET Core</p> 
