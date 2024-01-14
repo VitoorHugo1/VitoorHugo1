@@ -1,31 +1,29 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30a14e&height=120&section=header"/>
+<code>Console.WriteLine("Bem vindo ao meu github!😆")</code>
+<hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3aac58&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vitor+Hugo;I'm+17+years+old;I'm+from+Brazil;I'm+graduating+in+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p>💻Desenvolvedor .NET </p>
+<p>📚Estudando Angular, TypeScript e Dart</p>
+<p>👨‍💻Graduando em Engenharia de Software na <a href="https://www.uninter.com/" target="blank_">UNINTER</a></p>
 
+<hr>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitoorHugo1&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=30a14e&text_color=8b949e&bg_color=24292f" alt="Vitor Hugo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoorHugo1&layout=compact&hide_border=true&title_color=c9d1d9&text_color=8b949e&bg_color=24292f" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,nodejs,angular,ts,dart,mysql)](https://skillicons.dev)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VitoorHugo1&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
+<p>-C#</p> 
+<p>-ASP.NET Core</p>
+<p>-.NET Core</p> 
+<p>-Entity Framework Core</p>
+<p>-HTML</p>
+<p>-CSS</p>
+<p>-JavaScript</p>
+<p>-Node.js</p>
+<p>-Angular</p>
+<p>-TypeScript</p>
+<p>-Dart</p>
+<p>-Banco de dados (SQL Server, MySQL)</p>
 
-
-### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,js,html,css&perline=3)](https://skillicons.dev)
-
-### Studying in this moment:
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,dart&perline=3)](https://skillicons.dev)
-
-
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{VitoorHugo1}/count.svg" /></p> 
-<br>
-</div>
-
+<hr>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30a14e&height=120&section=header"/>
+Chega mais e da uma olhadinha nos meus códigos. Talvez eles te ajudem de alguma forma :)
