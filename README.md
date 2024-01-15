@@ -7,7 +7,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,nodejs,angular,ts,dart,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,nodejs,angular,ts,mysql)](https://skillicons.dev)
 
 Por aqui, você encontrará alguns projetos, usando as seguintes tecnologias:
 <p>-C#</p> 
@@ -20,7 +20,6 @@ Por aqui, você encontrará alguns projetos, usando as seguintes tecnologias:
 <p>-Node.js</p>
 <p>-Angular</p>
 <p>-TypeScript</p>
-<p>-Dart</p>
 <p>-Banco de dados (SQL Server, MySQL)</p>
 
 <hr>
