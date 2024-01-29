@@ -6,22 +6,15 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,nodejs,angular,ts,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,nodejs)](https://skillicons.dev)
 
 Por aqui, você encontrará alguns projetos, usando as seguintes tecnologias:
 <p>-C#</p> 
-<p>-ASP.NET Core</p>
-<p>-.NET Core</p> 
-<p>-Entity Framework Core</p>
 <p>-HTML</p>
 <p>-CSS</p>
 <p>-JavaScript</p>
 <p>-Node.js</p>
-<p>-Angular</p>
-<p>-TypeScript</p>
-<p>-Banco de dados (SQL Server, MySQL)</p>
 
 <hr>
-
 
 Chega mais e da uma olhadinha nos meus códigos. Talvez eles te ajudem de alguma forma :)
