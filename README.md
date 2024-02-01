@@ -7,8 +7,11 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,nodejs)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,html,css,js,nodejs" />
+  </a>
+</p>
 
 Por aqui, você encontrará alguns projetos, usando as seguintes tecnologias:
 
