@@ -15,11 +15,11 @@
 
 Por aqui, você encontrará alguns projetos, usando as seguintes tecnologias:
 
-<p>-C#</p> 
-<p>-HTML</p>
-<p>-CSS</p>
-<p>-JavaScript</p>
-<p>-Angular</p>
+<p>- C#</p> 
+<p>- HTML</p>
+<p>- CSS</p>
+<p>- JavaScript</p>
+<p>- Angular</p>
 <hr>
 
 Chega mais e da uma olhadinha nos meus códigos. Talvez eles te ajudem de alguma forma :)
