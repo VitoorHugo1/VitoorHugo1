@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,js,angular" />
+    <img src="https://skillicons.dev/icons?i=cs,html,css" />
   </a>
 </p>
 
@@ -20,6 +20,8 @@ Por aqui, você encontrará alguns projetos, usando as seguintes tecnologias:
 <p>- CSS</p>
 <p>- JavaScript</p>
 <p>- Angular</p>
+<p>- TypeScript</p>
+<p>- Node.js</p>
 <hr>
 
 Chega mais e da uma olhadinha nos meus códigos. Talvez eles te ajudem de alguma forma :)
