@@ -2,7 +2,7 @@
 <hr>
 
 <p>💻Desenvolvedor .NET </p>
-<p>👨‍💻Graduando em Engenharia de Software na <a href="https://www.uninter.com/" target="blank_">UNINTER</a>
+<p>👨‍💻Graduando em Engenharia de Software
 </p>
 
 <hr>
