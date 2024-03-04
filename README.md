@@ -1,8 +1,8 @@
-<code>Console.WriteLine("Bem vindo ao meu github!😆")</code>
+<code>Console.WriteLine("Welcome to my github!😆")</code>
 <hr>
 
-<p>💻Desenvolvedor .NET </p>
-<p>👨‍💻Graduando em Engenharia de Software
+<p>💻 .NET Developer </p>
+<p>👨‍💻Graduating in Software Engineering
 </p>
 
 <hr>
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-Por aqui, você encontrará alguns projetos, usando as seguintes tecnologias:
+Here, you will find some projects using the following technologies:
 
 <p>- C#</p> 
 <p>- HTML</p>
@@ -22,5 +22,5 @@ Por aqui, você encontrará alguns projetos, usando as seguintes tecnologias:
 <p>- Angular</p>
 <hr>
 
-Chega mais e da uma olhadinha nos meus códigos. Talvez eles te ajudem de alguma forma :)
+Come over and take a look at my codes. Maybe they will help you in some way :)
 
