@@ -1,26 +1,26 @@
-<code>Console.WriteLine("Welcome to my github!😆")</code>
-<hr>
 
-<p>💻 .NET Developer </p>
-<p>👨‍💻Graduating in Software Engineering
-</p>
+<p>💻 Desenvolvedor Full Stack | C#, .NET, Angular & TypeScript</p>
 
-<hr>
+Sou entusiasta de desenvolvimento de software, onde a paixão pelo código se mistura com a sede por desafios que me fazem crescer a cada dia. Totalmente focado em C# e .NET
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,angular" />
-  </a>
-</p>
+O Que Eu Ofereço:
 
-Here, you will find some projects using the following technologies:
+🌐 Expertise sólida em C#, .NET, Angular e TypeScript com habilidades afiadas na criação de soluções robustas e eficientes.
 
-<p>- C#</p> 
-<p>- HTML</p>
-<p>- CSS</p>
-<p>- JavaScript</p>
-<p>- Angular</p>
-<hr>
+🛠️ Compromisso com a excelência técnica, refletido na entrega de software de alta qualidade.
 
-Come over and take a look at my codes. Maybe they will help you in some way :)
+🚀 Capacidade de transformar ideias inovadoras em soluções práticas e escaláveis.
+
+Objetivos de Carreira:
+
+🎯 Busco oportunidades que me permitam continuar aprimorando minhas habilidades técnicas e contribuir significativamente para projetos desafiadores. Estou determinado a explorar novas tecnologias e metodologias, mantendo-me à frente das tendências do setor.
+
+Habilidades Técnicas:
+
+<p>➢ C#</p> 
+<p>➢ .NET </p> 
+<p>➢ ASP.NET Core</p> 
+<p>➢ Angular</p> 
+<p>➢ TypeScript</p> 
+<p>➢ SQL</p> 
 
