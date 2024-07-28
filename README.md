@@ -1,5 +1,5 @@
 
-<p>💻 Desenvolvedor Full Stack | C#, .NET, Angular & TypeScript</p>
+💻Engenheiro de Software | Desenvolvedor Full Stack 
 
 Sou entusiasta de desenvolvimento de software, onde a paixão pelo código se mistura com a sede por desafios que me fazem crescer a cada dia. Totalmente focado em C# e .NET
 
@@ -17,10 +17,9 @@ Objetivos de Carreira:
 
 Habilidades Técnicas:
 
-<p>➢ C#</p> 
-<p>➢ .NET </p> 
-<p>➢ ASP.NET Core</p> 
-<p>➢ Angular</p> 
-<p>➢ TypeScript</p> 
-<p>➢ SQL</p> 
-
+➢ C#
+➢ .NET 
+➢ ASP.NET Core
+➢ Angular
+➢ TypeScript
+➢ SQL
